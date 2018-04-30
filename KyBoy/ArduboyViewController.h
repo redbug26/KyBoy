@@ -15,8 +15,9 @@
 #import <UIKit/UIKit.h>
 #import "KKDrawView.h"
 
+#import <GameController/GameController.h>
 
-@interface ArduboyViewController : UIViewController <UIWebViewDelegate, NSFileManagerDelegate> {
+@interface ArduboyViewController : GCEventViewController  {
     
     KKDrawView *m_oglView;
     
@@ -27,6 +28,12 @@
     UIImageView *key_a;
     UIImageView *key_b;
 }
+
+
++ (ArduboyViewController*)sharedInstance;
+
+
+- (void)setupControllers:(id)sender;
 
 
 @end

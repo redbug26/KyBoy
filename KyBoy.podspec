@@ -11,6 +11,7 @@ Pod::Spec.new do |s|
   s.license      = { :type => 'MIT', :file => 'LICENSE.md' }
 
   s.ios.deployment_target  = '9.0'
+  s.tvos.deployment_target  = '9.0'
 
   s.user_target_xcconfig = {
     'GCC_PREPROCESSOR_DEFINITIONS' => 'KYBOY'
