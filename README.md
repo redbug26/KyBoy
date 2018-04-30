@@ -3,7 +3,7 @@ KyBoy
 
 Arduboy simulator for iPhone/iPad.
 
-![Screenshot](screenshot.png)
+<img src="https://github.com/redbug26/KyBoy/raw/master/screenshot.png" width=320>
 
 How to use ?
 ============
