@@ -36,4 +36,4 @@ This Project is based upon the following work:
 - [ArduboyPlaytune](https://github.com/Arduboy/ArduboyPlaytune): The ArduboyPlayTune library - Copyright 2011-2018, Len Shustek, Chris J. Martinez, Kevin "Arduboy" Bates, Josh Goebel, Scott Allen
 - [Arduboy2](https://github.com/MLXXXp/Arduboy2): The Arduboy2 library - Copyright 2016-2018, Scott Allen, Chris Martinez, Kevin "Arduboy" Bates, Josh Goebel, Adafruit Industries
 
-Arduboy is a registered trademark of Arduboy, Inc. and Arduboy Simulator is not created by, supported by, licensed by, or associated with Arduboy, Inc
+Arduboy is a registered trademark of Arduboy, Inc. and KyBoy is not created by, supported by, licensed by, or associated with Arduboy, Inc
