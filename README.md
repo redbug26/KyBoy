@@ -1,7 +1,7 @@
 KyBoy
 =====
 
-Arduboy simulator for iPhone/iPad.
+KyBoy is a library that you can drop into any iPhone/iPad/tvOS app that will help port your Arduboy game on the App Store.
 
 <img src="https://github.com/redbug26/KyBoy/raw/master/screenshot.png" width=320>
 
